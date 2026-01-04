@@ -1,0 +1,22 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package dao;
+
+/**
+ *
+ * @author CJAY
+ */
+import java.sql.SQLException;
+import java.util.List;
+
+public interface BaseDAO<T> {
+    boolean add(T t) throws SQLException;
+    boolean update(T t) throws SQLException;
+    boolean delete(int id) throws SQLException;
+    T getById(int id) throws SQLException;
+    List<T> getAll() throws SQLException;
+   
+    
+}

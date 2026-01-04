@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/InventoryBillingSystem.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/barcodes-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/flatlaf-3.5.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/font-asian-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/forms-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/hyph-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/io-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javase-3.5.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jdatepicker-2.0.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/kernel-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/layout-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-j-9.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/pdfa-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/pdftest-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/sign-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/simple2DOfficeMockup.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-api-2.1.0-alpha1-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-simple-2.1.0-alpha1-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/styled-xml-parser-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/svg-7.1.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/syntheticaSimple2D.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

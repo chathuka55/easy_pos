@@ -1,0 +1,42 @@
+# Compiled class files
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+
+# Database files
+*.mv.db
+*.trace.db
+db/*.db
+
+# Log files
+*.log
+logs/
+*.txt
+!repair_conditions.txt
+!repair_types.txt
+
+# Generated invoices and bills
+Invoices/
+ThermalBills/
+
+# Database backups
+db/auto_backups/
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configuration files (may contain sensitive data)
+config.properties
+passcode_config.properties
